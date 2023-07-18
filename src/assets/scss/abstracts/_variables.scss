@@ -1,0 +1,29 @@
+//Colors
+$primary:#005f73;
+$secondary:#0abfc2;
+$success:#19904e;
+$info:#f2bc02;
+$warning:#f27a02;
+$danger:#a53607;
+$light:#f7f1de;
+$dark:#001219;
+
+$enable-negative-margins: true;
+
+$spacer: 1rem;
+$spacers: (
+  0: 0,
+  1: $spacer * .25,
+  2: $spacer * .5,
+  3: $spacer,
+  4: $spacer * 1.5,
+  5: $spacer * 3,
+  6: $spacer * 3.5,
+  7: $spacer * 4,
+  8: $spacer * 5,
+  9: $spacer * 6,
+  10: $spacer * 7,
+);
+
+$btn-padding-y: 1rem;
+$btn-padding-x: 1.25rem;
